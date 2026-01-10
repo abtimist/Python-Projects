@@ -48,16 +48,5 @@ while True:
 
 
 
-# print random person 1 data vs person 2 data
-# take a guess , if guessed person has more followers -> correct ->
-# guessed person details = person 1 in next round
-# repeat
-# clear screen after each input
-# game_status=""
-# while True:
-    # take random dictionary from list and print it as detail a vs detail b
-    # ask to guess , check guess, if correct print same person again along with random as b
-    # if wrong failed final score
-
 
 
