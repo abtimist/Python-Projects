@@ -1,4 +1,4 @@
-﻿Python 100 Days Bootcamp – Progress Log
+﻿Python 100 Days Bootcamp
 
 This repository documents my journey through Python 100 Days Bootcamp by Angela Yu.  
 The goal is to build strong Python fundamentals, problem-solving ability, and real-world project experience by coding daily and tracking progress honestly.
@@ -47,6 +47,7 @@ Days 21–25: Intermediate Python & Projects
 - More complex project structures
 - Strengthened problem decomposition
 - Writing cleaner and more maintainable code
+- open() function
 - Pandas Library
 
 Tools & Technologies
