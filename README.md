@@ -47,6 +47,7 @@ Days 21–25: Intermediate Python & Projects
 - More complex project structures
 - Strengthened problem decomposition
 - Writing cleaner and more maintainable code
+- Pandas Library
 
 Tools & Technologies
 - Python 3
